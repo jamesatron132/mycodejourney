@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2015\Projects\Physics Formulas\Physics Formulas\bin\Debug\Physics Formulas.exe.config
+C:\Users\Student\documents\visual studio 2015\Projects\Physics Formulas\Physics Formulas\bin\Debug\Physics Formulas.exe
+C:\Users\Student\documents\visual studio 2015\Projects\Physics Formulas\Physics Formulas\bin\Debug\Physics Formulas.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\Physics Formulas\Physics Formulas\obj\Debug\Physics Formulas.csprojResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2015\Projects\Physics Formulas\Physics Formulas\obj\Debug\Physics_Formulas.Form1.resources
+C:\Users\Student\documents\visual studio 2015\Projects\Physics Formulas\Physics Formulas\obj\Debug\Physics_Formulas.Properties.Resources.resources
+C:\Users\Student\documents\visual studio 2015\Projects\Physics Formulas\Physics Formulas\obj\Debug\Physics Formulas.csproj.GenerateResource.Cache
+C:\Users\Student\documents\visual studio 2015\Projects\Physics Formulas\Physics Formulas\obj\Debug\Physics Formulas.exe
+C:\Users\Student\documents\visual studio 2015\Projects\Physics Formulas\Physics Formulas\obj\Debug\Physics Formulas.pdb
